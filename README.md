@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Hunter said "When the going gets weird the weird turn pro", let's go.
-
-💩
+Let's go.
 
 <!--
 **Jobbies/Jobbies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
